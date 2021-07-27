@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+#starters_image_div{
+    text-align: center;
+}
+.pokemon_description{
+    color:white;
+}
+
+.list{
+    color:white;
+}
+
+h1{
+    text-align: center;
+    color:orangered;
+    border:solid;
+    border:skyblue;
+}
+
+h2{
+    color: white;
+    text-align: left;
+}
+
+.pokemon_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.pokemon_names{
+    color:white;
+}
